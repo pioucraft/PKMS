@@ -16,8 +16,9 @@ Have a working PKMS with journaling feature too
 #### Mindmap
 In Markdown, you can create different headers. These basically work like nodes in a mindmap. A h4 is the children of the latest h3 header in the md file. This file is a pretty good example of a md mindmap. I should do it a bit differently, because it's a bit confusing to have to add headers manually, but the idea is there.
 
-#### Books
-The PKMS should be used to store some kind of personal knowledge books. Instead of having random notes (journaling feature), you have books. If you delete or modify something inside them, there is still VCS behind the scenes.
+#### Files 
+You can have folders ofc.
+Tracked with my custom VCS.
 
 #### VCS
 Use the VCS I created to store the books.
