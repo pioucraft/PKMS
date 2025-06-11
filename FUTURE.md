@@ -33,6 +33,3 @@ You can create tags for your journal entries.
 When you create a new journal entry, the last 3 tags will be displayed, and if you want, you can quickly add them to the entry. You can always add other tags.
 You can sort journal entries by tags
 
-#### Map
-Have a map of were you wrote all your journal entries.
-The map shouldn't be implemented in the beginning, but I should implement the location feature in the journal entries in the beginning, so that I don't have entries without location later.
